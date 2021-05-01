@@ -6,6 +6,8 @@ Assets/skybox/Real filter=lfs diff=lfs merge=lfs -text
 Stars filter=lfs diff=lfs merge=lfs -text
 Skybox/StarSkybox04/CubemapStars.cubemap filter=lfs diff=lfs merge=lfs -text
 Assets/skybox/Real[[:space:]]Stars[[:space:]]Skybox/StarSkybox04/CubemapStars.cubemap filter=lfs diff=lfs merge=lfs -text
+sets/skybox/Real[[:space:]]Stars[[:space:]]Skybox/StarSkybox04/CubemapStars.cubemapAssets/skybox/Real filter=lfs diff=lfs merge=lfs -text
+Skybox/StarSkybox04/CubemapStars.cubem filter=lfs diff=lfs merge=lfs -text
 *.suo filter=lfs diff=lfs merge=lfs -text
 *.lock filter=lfs diff=lfs merge=lfs -text
 *.ide filter=lfs diff=lfs merge=lfs -text
